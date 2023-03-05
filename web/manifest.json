@@ -1,5 +1,5 @@
 {
-  "name": "BluetoothSpeaker",
+  "name": "LegoAnalyzer",
   "builds": [
     {
       "chipFamily": "ESP32",
